@@ -1,0 +1,13 @@
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.login.resources
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.admin_login.resources
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.admin_manage.resources
+C:\Users\阿西\Downloads\資策會\訂便當系統開發\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.buyItem.resources
